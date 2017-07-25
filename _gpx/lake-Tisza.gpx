@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>lake-Tisza</name>
+
+	<rtept lat="47.50352" lon="20.51628">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="47.51906" lon="20.58220">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="47.53412" lon="20.60417">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="47.57745" lon="20.61241">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="47.63463" lon="20.64468">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="47.65498" lon="20.67799">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="47.68758" lon="20.72090">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="47.67625" lon="20.74631">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="47.65221" lon="20.76382">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="47.62352" lon="20.74390">
+		<name>I10</name>
+	</rtept>
+	<rtept lat="47.61010" lon="20.70030">
+		<name>I11</name>
+	</rtept>
+	<rtept lat="47.58509" lon="20.67558">
+		<name>I12</name>
+	</rtept>
+	<rtept lat="47.55336" lon="20.66357">
+		<name>I13</name>
+	</rtept>
+	<rtept lat="47.51511" lon="20.58804">
+		<name>I14</name>
+	</rtept>
+	<rtept lat="47.48937" lon="20.60795">
+		<name>I15</name>
+	</rtept>
+	<rtept lat="47.47243" lon="20.57087">
+		<name>I16</name>
+	</rtept>
+	<rtept lat="47.49470" lon="20.51113">
+		<name>I17</name>
+	</rtept>
+	<rtept lat="47.50329" lon="20.51559">
+		<name>I18</name>
+	</rtept>
+
+</rte>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>city-Pozsony</name>
+
+	<rtept lat="48.17318" lon="17.11464">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="48.20843" lon="17.14451">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="48.20134" lon="17.21283">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="48.12004" lon="17.22553">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="48.10606" lon="17.20322">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="48.10537" lon="17.16545">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="48.09643" lon="17.13387">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="48.09987" lon="17.10022">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="48.11202" lon="17.08374">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="48.13768" lon="17.09782">
+		<name>I10</name>
+	</rtept>
+	<rtept lat="48.14593" lon="17.05250">
+		<name>I11</name>
+	</rtept>
+	<rtept lat="48.17891" lon="17.06589">
+		<name>I12</name>
+	</rtept>
+	<rtept lat="48.17410" lon="17.11773">
+		<name>I13</name>
+	</rtept>
+
+</rte>
+</gpx>

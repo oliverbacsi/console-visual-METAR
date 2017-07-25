@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>hill-Szh</name>
+
+	<rtept lat="47.06451" lon="16.47675">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="47.13929" lon="16.80359">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="47.33510" lon="16.92719">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="47.40579" lon="16.51520">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="47.31090" lon="16.39984">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="47.07012" lon="16.46576">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="47.06638" lon="16.46851">
+		<name>I7</name>
+	</rtept>
+
+</rte>
+</gpx>

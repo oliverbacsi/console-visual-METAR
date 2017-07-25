@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>mntn-Bakony</name>
+
+	<rtept lat="46.92963" lon="17.38586">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="47.21770" lon="18.12195">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="47.38533" lon="17.95166">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="47.02895" lon="17.36938">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="46.92776" lon="17.38861">
+		<name>I5</name>
+	</rtept>
+
+</rte>
+</gpx>

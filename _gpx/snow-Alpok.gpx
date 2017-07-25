@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>snow-Alpok</name>
+
+	<rtept lat="47.22703" lon="10.85999">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="47.36115" lon="12.05200">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="47.27550" lon="13.10669">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="47.45781" lon="14.29321">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="47.27550" lon="14.26025">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="47.07012" lon="13.43628">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="46.86019" lon="13.01880">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="46.87146" lon="11.84326">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="46.69467" lon="10.94788">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="46.36588" lon="10.28870">
+		<name>I10</name>
+	</rtept>
+	<rtept lat="46.42650" lon="9.41528">
+		<name>I11</name>
+	</rtept>
+	<rtept lat="46.50217" lon="8.62427">
+		<name>I12</name>
+	</rtept>
+	<rtept lat="46.94276" lon="8.68469">
+		<name>I13</name>
+	</rtept>
+	<rtept lat="47.05141" lon="9.95361">
+		<name>I14</name>
+	</rtept>
+	<rtept lat="47.21584" lon="10.87097">
+		<name>I15</name>
+	</rtept>
+	<rtept lat="47.21211" lon="10.87097">
+		<name>I16</name>
+	</rtept>
+
+</rte>
+</gpx>

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>city-Vienna</name>
+
+	<rtept lat="48.26925" lon="16.35555">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="48.28959" lon="16.41769">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="48.26400" lon="16.49048">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="48.22124" lon="16.48739">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="48.18417" lon="16.48773">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="48.14158" lon="16.52584">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="48.12783" lon="16.45237">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="48.13218" lon="16.36448">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="48.11431" lon="16.31916">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="48.11981" lon="16.25633">
+		<name>I10</name>
+	</rtept>
+	<rtept lat="48.17204" lon="16.26663">
+		<name>I11</name>
+	</rtept>
+	<rtept lat="48.20385" lon="16.25633">
+		<name>I12</name>
+	</rtept>
+	<rtept lat="48.25394" lon="16.28551">
+		<name>I13</name>
+	</rtept>
+	<rtept lat="48.26857" lon="16.35796">
+		<name>I14</name>
+	</rtept>
+
+</rte>
+</gpx>

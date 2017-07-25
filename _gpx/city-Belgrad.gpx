@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>city-Belgrad</name>
+
+	<rtept lat="44.86512" lon="20.33157">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="44.91376" lon="20.44899">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="44.90841" lon="20.53963">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="44.87047" lon="20.63438">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="44.76136" lon="20.63095">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="44.71747" lon="20.57259">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="44.71210" lon="20.48401">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="44.71893" lon="20.38651">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="44.75063" lon="20.33913">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="44.86463" lon="20.33638">
+		<name>I10</name>
+	</rtept>
+	<rtept lat="44.86512" lon="20.33295">
+		<name>I11</name>
+	</rtept>
+
+</rte>
+</gpx>

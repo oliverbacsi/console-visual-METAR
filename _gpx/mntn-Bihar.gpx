@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>mntn-Bihar</name>
+
+	<rtept lat="46.81510" lon="22.42859">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="46.05036" lon="22.32422">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="45.88236" lon="23.20862">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="46.30900" lon="23.72498">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="46.61549" lon="23.77441">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="46.84141" lon="23.18115">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="46.81886" lon="22.43408">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="46.81510" lon="22.43958">
+		<name>I8</name>
+	</rtept>
+
+</rte>
+</gpx>

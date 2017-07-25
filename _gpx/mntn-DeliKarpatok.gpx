@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>mntn-DeliKarpatok</name>
+
+	<rtept lat="45.87854" lon="23.46680">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="45.13168" lon="22.44507">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="45.17429" lon="24.21387">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="45.32125" lon="26.15845">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="45.69851" lon="26.70227">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="46.38483" lon="26.58142">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="46.27863" lon="25.52124">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="45.79434" lon="25.10925">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="45.69467" lon="24.36218">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="45.86324" lon="23.48877">
+		<name>I10</name>
+	</rtept>
+	<rtept lat="45.86324" lon="23.48877">
+		<name>I11</name>
+	</rtept>
+
+</rte>
+</gpx>

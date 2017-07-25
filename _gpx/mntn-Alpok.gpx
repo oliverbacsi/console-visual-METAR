@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>mntn-Alpok</name>
+
+	<rtept lat="47.13742" lon="8.53088">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="45.99696" lon="8.67920">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="45.95115" lon="10.74463">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="46.49839" lon="12.59583">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="46.37725" lon="13.84277">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="46.24825" lon="14.96887">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="47.10752" lon="15.30396">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="47.43923" lon="15.72144">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="47.82053" lon="15.65552">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="47.74302" lon="13.97461">
+		<name>I10</name>
+	</rtept>
+	<rtept lat="47.58394" lon="13.00781">
+		<name>I11</name>
+	</rtept>
+	<rtept lat="47.61727" lon="11.75537">
+		<name>I12</name>
+	</rtept>
+	<rtept lat="47.46152" lon="10.87646">
+		<name>I13</name>
+	</rtept>
+	<rtept lat="47.40207" lon="9.79980">
+		<name>I14</name>
+	</rtept>
+	<rtept lat="47.23822" lon="9.12964">
+		<name>I15</name>
+	</rtept>
+	<rtept lat="47.14863" lon="8.53088">
+		<name>I16</name>
+	</rtept>
+
+</rte>
+</gpx>

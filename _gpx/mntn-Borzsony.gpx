@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>mntn-Borzsony</name>
+
+	<rtept lat="47.82330" lon="18.71658">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="48.05973" lon="18.93768">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="47.98808" lon="19.09424">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="47.86201" lon="18.97614">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="47.83160" lon="18.87314">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="47.82883" lon="18.71796">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="47.82606" lon="18.71521">
+		<name>I7</name>
+	</rtept>
+
+</rte>
+</gpx>

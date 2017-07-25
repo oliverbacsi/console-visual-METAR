@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>snow-DeliKarpatok</name>
+
+	<rtept lat="45.46398" lon="23.38989">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="45.61788" lon="24.33472">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="45.62556" lon="25.75745">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="45.45242" lon="25.87830">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="45.44857" lon="24.90051">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="45.47169" lon="24.36768">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="45.37916" lon="23.48877">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="45.46013" lon="23.40088">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="45.46013" lon="23.41187">
+		<name>I9</name>
+	</rtept>
+
+</rte>
+</gpx>

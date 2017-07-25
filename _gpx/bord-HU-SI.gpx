@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>H-SL</name>
+
+	<rtept lat="46.47570" lon="16.59348">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="46.50501" lon="16.52481">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="46.53052" lon="16.53168">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="46.55886" lon="16.51520">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="46.60888" lon="16.43829">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="46.63718" lon="16.39160">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="46.66075" lon="16.38748">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="46.66263" lon="16.41632">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="46.69655" lon="16.42044">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="46.70126" lon="16.36963">
+		<name>I10</name>
+	</rtept>
+	<rtept lat="46.71539" lon="16.38062">
+		<name>I11</name>
+	</rtept>
+	<rtept lat="46.75398" lon="16.31607">
+		<name>I12</name>
+	</rtept>
+	<rtept lat="46.77749" lon="16.32843">
+		<name>I13</name>
+	</rtept>
+	<rtept lat="46.78125" lon="16.30920">
+		<name>I14</name>
+	</rtept>
+	<rtept lat="46.80006" lon="16.31195">
+		<name>I15</name>
+	</rtept>
+	<rtept lat="46.80570" lon="16.33804">
+		<name>I16</name>
+	</rtept>
+	<rtept lat="46.84423" lon="16.34628">
+		<name>I17</name>
+	</rtept>
+	<rtept lat="46.86301" lon="16.30096">
+		<name>I18</name>
+	</rtept>
+	<rtept lat="46.87897" lon="16.22681">
+		<name>I19</name>
+	</rtept>
+	<rtept lat="46.85831" lon="16.18423">
+		<name>I20</name>
+	</rtept>
+	<rtept lat="46.85174" lon="16.14304">
+		<name>I21</name>
+	</rtept>
+	<rtept lat="46.87052" lon="16.11008">
+		<name>I22</name>
+	</rtept>
+
+</rte>
+</gpx>

@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>hill-Erdely</name>
+
+	<rtept lat="47.50607" lon="22.73071">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="47.96786" lon="23.31848">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="48.35625" lon="25.19714">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="47.19345" lon="26.47156">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="46.49839" lon="27.06482">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="45.58713" lon="27.08679">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="45.10842" lon="26.59790">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="44.85197" lon="25.48828">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="44.71551" lon="24.48853">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="44.57090" lon="23.25256">
+		<name>I10</name>
+	</rtept>
+	<rtept lat="44.54742" lon="22.62085">
+		<name>I11</name>
+	</rtept>
+	<rtept lat="43.90581" lon="22.23083">
+		<name>I12</name>
+	</rtept>
+	<rtept lat="43.88206" lon="21.27502">
+		<name>I13</name>
+	</rtept>
+	<rtept lat="44.71942" lon="21.39038">
+		<name>I14</name>
+	</rtept>
+	<rtept lat="45.49865" lon="21.67603">
+		<name>I15</name>
+	</rtept>
+	<rtept lat="46.24825" lon="21.59363">
+		<name>I16</name>
+	</rtept>
+	<rtept lat="47.12995" lon="21.94519">
+		<name>I17</name>
+	</rtept>
+	<rtept lat="47.50978" lon="22.74170">
+		<name>I18</name>
+	</rtept>
+
+</rte>
+</gpx>

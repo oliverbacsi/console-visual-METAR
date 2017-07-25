@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>city-Ljubljana</name>
+
+	<rtept lat="46.09061" lon="14.47809">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="46.09085" lon="14.51242">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="46.06930" lon="14.57251">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="46.05036" lon="14.57354">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="46.04250" lon="14.51792">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="46.01759" lon="14.54058">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="46.02903" lon="14.48341">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="46.03833" lon="14.44668">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="46.07323" lon="14.45389">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="46.09192" lon="14.47895">
+		<name>I10</name>
+	</rtept>
+
+</rte>
+</gpx>

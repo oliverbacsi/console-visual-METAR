@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>snow-MagasTatra</name>
+
+	<rtept lat="49.23643" lon="19.76303">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="49.19965" lon="19.70535">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="49.17901" lon="19.88800">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="49.15477" lon="20.05005">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="49.15297" lon="20.16678">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="49.21311" lon="20.26016">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="49.23733" lon="20.26703">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="49.24540" lon="20.17914">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="49.23284" lon="20.09811">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="49.24988" lon="19.97452">
+		<name>I10</name>
+	</rtept>
+	<rtept lat="49.23464" lon="19.85916">
+		<name>I11</name>
+	</rtept>
+	<rtept lat="49.23733" lon="19.76715">
+		<name>I12</name>
+	</rtept>
+	<rtept lat="49.23553" lon="19.77127">
+		<name>I13</name>
+	</rtept>
+
+</rte>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>lake-Ferto</name>
+
+	<rtept lat="47.91772" lon="16.75621">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="47.93245" lon="16.82350">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="47.92140" lon="16.85646">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="47.88412" lon="16.85097">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="47.84220" lon="16.82144">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="47.76656" lon="16.75346">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="47.74579" lon="16.76926">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="47.71900" lon="16.80702">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="47.67094" lon="16.81870">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="47.64365" lon="16.76857">
+		<name>I10</name>
+	</rtept>
+	<rtept lat="47.64319" lon="16.68549">
+		<name>I11</name>
+	</rtept>
+	<rtept lat="47.68388" lon="16.67862">
+		<name>I12</name>
+	</rtept>
+	<rtept lat="47.72501" lon="16.66214">
+		<name>I13</name>
+	</rtept>
+	<rtept lat="47.77348" lon="16.68961">
+		<name>I14</name>
+	</rtept>
+	<rtept lat="47.85187" lon="16.70677">
+		<name>I15</name>
+	</rtept>
+	<rtept lat="47.89839" lon="16.71364">
+		<name>I16</name>
+	</rtept>
+	<rtept lat="47.91749" lon="16.75501">
+		<name>I17</name>
+	</rtept>
+
+</rte>
+</gpx>

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>bord-PL-GE</name>
+
+	<rtept lat="51.05003" lon="14.96407">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="51.07161" lon="14.97093">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="51.07808" lon="14.97986">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="51.11387" lon="14.97849">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="51.12378" lon="14.99634">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="51.14188" lon="14.99290">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="51.15609" lon="15.00252">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="51.19053" lon="15.00732">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="51.24601" lon="15.03204">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="51.29413" lon="15.03479">
+		<name>I10</name>
+	</rtept>
+	<rtept lat="51.33104" lon="14.98466">
+		<name>I11</name>
+	</rtept>
+	<rtept lat="51.36449" lon="14.96819">
+		<name>I12</name>
+	</rtept>
+	<rtept lat="51.43261" lon="14.96613">
+		<name>I13</name>
+	</rtept>
+	<rtept lat="51.47283" lon="14.94896">
+		<name>I14</name>
+	</rtept>
+
+</rte>
+</gpx>

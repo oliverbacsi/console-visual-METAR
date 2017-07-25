@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>mntn-Bukk</name>
+
+	<rtept lat="47.97889" lon="20.37277">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="47.96694" lon="20.54031">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="48.01841" lon="20.72159">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="48.09276" lon="20.73669">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="48.13860" lon="20.61447">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="48.12760" lon="20.46204">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="48.07716" lon="20.34943">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="48.02300" lon="20.32608">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="47.97889" lon="20.37415">
+		<name>I9</name>
+	</rtept>
+
+</rte>
+</gpx>

@@ -1,0 +1,1441 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>rivr-Duna</name>
+
+	<rtept lat="45.25846" lon="29.75510">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="45.41388" lon="29.54773">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="45.44568" lon="29.32938">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="45.43604" lon="29.24561">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="45.38543" lon="29.12132">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="45.35166" lon="28.96957">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="45.28745" lon="28.95378">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="45.28165" lon="28.92220">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="45.31449" lon="28.86726">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="45.33622" lon="28.78761">
+		<name>I10</name>
+	</rtept>
+	<rtept lat="45.28455" lon="28.75603">
+		<name>I11</name>
+	</rtept>
+	<rtept lat="45.24202" lon="28.78967">
+		<name>I12</name>
+	</rtept>
+	<rtept lat="45.22413" lon="28.70522">
+		<name>I13</name>
+	</rtept>
+	<rtept lat="45.24830" lon="28.56377">
+		<name>I14</name>
+	</rtept>
+	<rtept lat="45.32029" lon="28.34816">
+		<name>I15</name>
+	</rtept>
+	<rtept lat="45.39845" lon="28.28499">
+		<name>I16</name>
+	</rtept>
+	<rtept lat="45.44905" lon="28.27675">
+		<name>I17</name>
+	</rtept>
+	<rtept lat="45.46447" lon="28.20396">
+		<name>I18</name>
+	</rtept>
+	<rtept lat="45.41532" lon="28.19229">
+		<name>I19</name>
+	</rtept>
+	<rtept lat="45.44038" lon="28.11264">
+		<name>I20</name>
+	</rtept>
+	<rtept lat="45.41195" lon="28.03574">
+		<name>I21</name>
+	</rtept>
+	<rtept lat="45.35601" lon="28.02132">
+		<name>I22</name>
+	</rtept>
+	<rtept lat="45.27054" lon="27.97943">
+		<name>I23</name>
+	</rtept>
+	<rtept lat="45.18494" lon="27.94373">
+		<name>I24</name>
+	</rtept>
+	<rtept lat="45.13556" lon="27.96295">
+		<name>I25</name>
+	</rtept>
+	<rtept lat="45.06625" lon="27.90459">
+		<name>I26</name>
+	</rtept>
+	<rtept lat="45.01093" lon="27.88467">
+		<name>I27</name>
+	</rtept>
+	<rtept lat="44.95557" lon="27.90390">
+		<name>I28</name>
+	</rtept>
+	<rtept lat="44.88847" lon="27.88536">
+		<name>I29</name>
+	</rtept>
+	<rtept lat="44.87339" lon="27.83798">
+		<name>I30</name>
+	</rtept>
+	<rtept lat="44.78378" lon="27.82768">
+		<name>I31</name>
+	</rtept>
+	<rtept lat="44.77209" lon="27.87712">
+		<name>I32</name>
+	</rtept>
+	<rtept lat="44.69990" lon="27.85858">
+		<name>I33</name>
+	</rtept>
+	<rtept lat="44.63251" lon="27.92725">
+		<name>I34</name>
+	</rtept>
+	<rtept lat="44.56552" lon="27.90665">
+		<name>I35</name>
+	</rtept>
+	<rtept lat="44.53519" lon="27.91901">
+		<name>I36</name>
+	</rtept>
+	<rtept lat="44.50091" lon="27.88811">
+		<name>I37</name>
+	</rtept>
+	<rtept lat="44.48426" lon="27.93686">
+		<name>I38</name>
+	</rtept>
+	<rtept lat="44.41809" lon="27.92450">
+		<name>I39</name>
+	</rtept>
+	<rtept lat="44.39700" lon="27.86613">
+		<name>I40</name>
+	</rtept>
+	<rtept lat="44.32925" lon="27.81120">
+		<name>I41</name>
+	</rtept>
+	<rtept lat="44.32876" lon="27.74323">
+		<name>I42</name>
+	</rtept>
+	<rtept lat="44.30714" lon="27.67525">
+		<name>I43</name>
+	</rtept>
+	<rtept lat="44.27372" lon="27.66220">
+		<name>I44</name>
+	</rtept>
+	<rtept lat="44.22995" lon="27.57637">
+		<name>I45</name>
+	</rtept>
+	<rtept lat="44.18959" lon="27.56264">
+		<name>I46</name>
+	</rtept>
+	<rtept lat="44.13491" lon="27.47063">
+		<name>I47</name>
+	</rtept>
+	<rtept lat="44.12210" lon="27.44797">
+		<name>I48</name>
+	</rtept>
+	<rtept lat="44.13294" lon="27.40059">
+		<name>I49</name>
+	</rtept>
+	<rtept lat="44.12604" lon="27.36763">
+		<name>I50</name>
+	</rtept>
+	<rtept lat="44.14033" lon="27.31476">
+		<name>I51</name>
+	</rtept>
+	<rtept lat="44.11372" lon="27.22343">
+		<name>I52</name>
+	</rtept>
+	<rtept lat="44.13787" lon="27.13760">
+		<name>I53</name>
+	</rtept>
+	<rtept lat="44.13344" lon="27.08405">
+		<name>I54</name>
+	</rtept>
+	<rtept lat="44.14280" lon="27.04079">
+		<name>I55</name>
+	</rtept>
+	<rtept lat="44.13393" lon="26.98586">
+		<name>I56</name>
+	</rtept>
+	<rtept lat="44.13491" lon="26.91582">
+		<name>I57</name>
+	</rtept>
+	<rtept lat="44.11717" lon="26.84990">
+		<name>I58</name>
+	</rtept>
+	<rtept lat="44.08265" lon="26.78192">
+		<name>I59</name>
+	</rtept>
+	<rtept lat="44.07427" lon="26.74004">
+		<name>I60</name>
+	</rtept>
+	<rtept lat="44.07821" lon="26.70227">
+		<name>I61</name>
+	</rtept>
+	<rtept lat="44.05354" lon="26.59996">
+		<name>I62</name>
+	</rtept>
+	<rtept lat="44.05552" lon="26.54778">
+		<name>I63</name>
+	</rtept>
+	<rtept lat="44.04022" lon="26.46812">
+		<name>I64</name>
+	</rtept>
+	<rtept lat="44.03923" lon="26.39328">
+		<name>I65</name>
+	</rtept>
+	<rtept lat="44.02985" lon="26.30951">
+		<name>I66</name>
+	</rtept>
+	<rtept lat="44.00269" lon="26.25732">
+		<name>I67</name>
+	</rtept>
+	<rtept lat="43.98540" lon="26.20583">
+		<name>I68</name>
+	</rtept>
+	<rtept lat="43.98540" lon="26.14334">
+		<name>I69</name>
+	</rtept>
+	<rtept lat="43.95921" lon="26.09528">
+		<name>I70</name>
+	</rtept>
+	<rtept lat="43.90828" lon="26.06163">
+		<name>I71</name>
+	</rtept>
+	<rtept lat="43.86721" lon="25.96893">
+		<name>I72</name>
+	</rtept>
+	<rtept lat="43.82313" lon="25.91812">
+		<name>I73</name>
+	</rtept>
+	<rtept lat="43.77407" lon="25.87212">
+		<name>I74</name>
+	</rtept>
+	<rtept lat="43.74828" lon="25.81444">
+		<name>I75</name>
+	</rtept>
+	<rtept lat="43.71653" lon="25.79041">
+		<name>I76</name>
+	</rtept>
+	<rtept lat="43.69022" lon="25.72723">
+		<name>I77</name>
+	</rtept>
+	<rtept lat="43.69220" lon="25.66063">
+		<name>I78</name>
+	</rtept>
+	<rtept lat="43.64601" lon="25.56793">
+		<name>I79</name>
+	</rtept>
+	<rtept lat="43.64651" lon="25.49858">
+		<name>I80</name>
+	</rtept>
+	<rtept lat="43.62663" lon="25.44159">
+		<name>I81</name>
+	</rtept>
+	<rtept lat="43.61967" lon="25.39215">
+		<name>I82</name>
+	</rtept>
+	<rtept lat="43.62713" lon="25.34340">
+		<name>I83</name>
+	</rtept>
+	<rtept lat="43.68426" lon="25.24452">
+		<name>I84</name>
+	</rtept>
+	<rtept lat="43.69717" lon="25.17929">
+		<name>I85</name>
+	</rtept>
+	<rtept lat="43.68476" lon="25.10925">
+		<name>I86</name>
+	</rtept>
+	<rtept lat="43.70015" lon="25.03853">
+		<name>I87</name>
+	</rtept>
+	<rtept lat="43.72496" lon="24.97467">
+		<name>I88</name>
+	</rtept>
+	<rtept lat="43.70710" lon="24.85863">
+		<name>I89</name>
+	</rtept>
+	<rtept lat="43.71206" lon="24.80850">
+		<name>I90</name>
+	</rtept>
+	<rtept lat="43.68426" lon="24.73640">
+		<name>I91</name>
+	</rtept>
+	<rtept lat="43.72645" lon="24.65469">
+		<name>I92</name>
+	</rtept>
+	<rtept lat="43.74481" lon="24.61967">
+		<name>I93</name>
+	</rtept>
+	<rtept lat="43.76316" lon="24.50363">
+		<name>I94</name>
+	</rtept>
+	<rtept lat="43.74431" lon="24.44870">
+		<name>I95</name>
+	</rtept>
+	<rtept lat="43.71653" lon="24.40956">
+		<name>I96</name>
+	</rtept>
+	<rtept lat="43.69419" lon="24.33472">
+		<name>I97</name>
+	</rtept>
+	<rtept lat="43.69866" lon="24.30450">
+		<name>I98</name>
+	</rtept>
+	<rtept lat="43.68128" lon="24.17473">
+		<name>I99</name>
+	</rtept>
+	<rtept lat="43.71603" lon="24.06693">
+		<name>I100</name>
+	</rtept>
+	<rtept lat="43.74679" lon="23.95912">
+		<name>I101</name>
+	</rtept>
+	<rtept lat="43.75076" lon="23.88153">
+		<name>I102</name>
+	</rtept>
+	<rtept lat="43.77010" lon="23.81149">
+		<name>I103</name>
+	</rtept>
+	<rtept lat="43.80232" lon="23.75175">
+		<name>I104</name>
+	</rtept>
+	<rtept lat="43.80579" lon="23.69820">
+		<name>I105</name>
+	</rtept>
+	<rtept lat="43.79142" lon="23.62198">
+		<name>I106</name>
+	</rtept>
+	<rtept lat="43.80678" lon="23.54370">
+		<name>I107</name>
+	</rtept>
+	<rtept lat="43.85434" lon="23.42422">
+		<name>I108</name>
+	</rtept>
+	<rtept lat="43.84691" lon="23.27179">
+		<name>I109</name>
+	</rtept>
+	<rtept lat="43.80728" lon="23.13377">
+		<name>I110</name>
+	</rtept>
+	<rtept lat="43.79638" lon="23.03696">
+		<name>I111</name>
+	</rtept>
+	<rtept lat="43.82115" lon="22.93465">
+		<name>I112</name>
+	</rtept>
+	<rtept lat="43.84047" lon="22.86392">
+		<name>I113</name>
+	</rtept>
+	<rtept lat="43.88008" lon="22.83783">
+		<name>I114</name>
+	</rtept>
+	<rtept lat="43.97799" lon="22.87903">
+		<name>I115</name>
+	</rtept>
+	<rtept lat="43.99430" lon="22.90581">
+		<name>I116</name>
+	</rtept>
+	<rtept lat="44.01998" lon="23.01567">
+		<name>I117</name>
+	</rtept>
+	<rtept lat="44.05996" lon="23.04794">
+		<name>I118</name>
+	</rtept>
+	<rtept lat="44.09498" lon="23.01979">
+		<name>I119</name>
+	</rtept>
+	<rtept lat="44.10139" lon="22.92297">
+		<name>I120</name>
+	</rtept>
+	<rtept lat="44.14280" lon="22.84950">
+		<name>I121</name>
+	</rtept>
+	<rtept lat="44.16103" lon="22.79320">
+		<name>I122</name>
+	</rtept>
+	<rtept lat="44.19993" lon="22.74582">
+		<name>I123</name>
+	</rtept>
+	<rtept lat="44.20485" lon="22.69020">
+		<name>I124</name>
+	</rtept>
+	<rtept lat="44.22355" lon="22.66960">
+		<name>I125</name>
+	</rtept>
+	<rtept lat="44.25209" lon="22.68677">
+		<name>I126</name>
+	</rtept>
+	<rtept lat="44.27913" lon="22.68059">
+		<name>I127</name>
+	</rtept>
+	<rtept lat="44.29289" lon="22.64626">
+		<name>I128</name>
+	</rtept>
+	<rtept lat="44.30518" lon="22.56866">
+		<name>I129</name>
+	</rtept>
+	<rtept lat="44.33023" lon="22.53708">
+		<name>I130</name>
+	</rtept>
+	<rtept lat="44.37884" lon="22.50481">
+		<name>I131</name>
+	</rtept>
+	<rtept lat="44.41907" lon="22.49657">
+		<name>I132</name>
+	</rtept>
+	<rtept lat="44.43966" lon="22.47047">
+		<name>I133</name>
+	</rtept>
+	<rtept lat="44.47054" lon="22.45468">
+		<name>I134</name>
+	</rtept>
+	<rtept lat="44.48328" lon="22.47047">
+		<name>I135</name>
+	</rtept>
+	<rtept lat="44.47593" lon="22.51648">
+		<name>I136</name>
+	</rtept>
+	<rtept lat="44.48034" lon="22.54120">
+		<name>I137</name>
+	</rtept>
+	<rtept lat="44.49895" lon="22.55768">
+		<name>I138</name>
+	</rtept>
+	<rtept lat="44.53567" lon="22.56454">
+		<name>I139</name>
+	</rtept>
+	<rtept lat="44.55133" lon="22.58789">
+		<name>I140</name>
+	</rtept>
+	<rtept lat="44.55280" lon="22.62497">
+		<name>I141</name>
+	</rtept>
+	<rtept lat="44.51903" lon="22.69844">
+		<name>I142</name>
+	</rtept>
+	<rtept lat="44.53910" lon="22.76161">
+		<name>I143</name>
+	</rtept>
+	<rtept lat="44.55672" lon="22.76436">
+		<name>I144</name>
+	</rtept>
+	<rtept lat="44.57482" lon="22.74307">
+		<name>I145</name>
+	</rtept>
+	<rtept lat="44.61931" lon="22.67853">
+		<name>I146</name>
+	</rtept>
+	<rtept lat="44.61442" lon="22.61948">
+		<name>I147</name>
+	</rtept>
+	<rtept lat="44.64130" lon="22.56660">
+		<name>I148</name>
+	</rtept>
+	<rtept lat="44.71307" lon="22.47528">
+		<name>I149</name>
+	</rtept>
+	<rtept lat="44.70771" lon="22.41623">
+		<name>I150</name>
+	</rtept>
+	<rtept lat="44.67988" lon="22.39494">
+		<name>I151</name>
+	</rtept>
+	<rtept lat="44.66719" lon="22.31529">
+		<name>I152</name>
+	</rtept>
+	<rtept lat="44.62322" lon="22.27203">
+		<name>I153</name>
+	</rtept>
+	<rtept lat="44.58118" lon="22.25487">
+		<name>I154</name>
+	</rtept>
+	<rtept lat="44.48573" lon="22.18346">
+		<name>I155</name>
+	</rtept>
+	<rtept lat="44.47397" lon="22.13882">
+		<name>I156</name>
+	</rtept>
+	<rtept lat="44.50679" lon="22.07497">
+		<name>I157</name>
+	</rtept>
+	<rtept lat="44.53176" lon="22.06604">
+		<name>I158</name>
+	</rtept>
+	<rtept lat="44.54987" lon="22.03308">
+		<name>I159</name>
+	</rtept>
+	<rtept lat="44.59389" lon="22.02484">
+		<name>I160</name>
+	</rtept>
+	<rtept lat="44.61198" lon="22.00012">
+		<name>I161</name>
+	</rtept>
+	<rtept lat="44.63446" lon="21.99738">
+		<name>I162</name>
+	</rtept>
+	<rtept lat="44.63299" lon="21.96098">
+		<name>I163</name>
+	</rtept>
+	<rtept lat="44.65644" lon="21.84975">
+		<name>I164</name>
+	</rtept>
+	<rtept lat="44.66133" lon="21.77971">
+		<name>I165</name>
+	</rtept>
+	<rtept lat="44.65449" lon="21.71860">
+		<name>I166</name>
+	</rtept>
+	<rtept lat="44.66816" lon="21.66710">
+		<name>I167</name>
+	</rtept>
+	<rtept lat="44.66523" lon="21.62865">
+		<name>I168</name>
+	</rtept>
+	<rtept lat="44.68477" lon="21.60805">
+		<name>I169</name>
+	</rtept>
+	<rtept lat="44.73015" lon="21.61217">
+		<name>I170</name>
+	</rtept>
+	<rtept lat="44.75307" lon="21.59500">
+		<name>I171</name>
+	</rtept>
+	<rtept lat="44.77355" lon="21.54419">
+		<name>I172</name>
+	</rtept>
+	<rtept lat="44.77501" lon="21.42128">
+		<name>I173</name>
+	</rtept>
+	<rtept lat="44.78525" lon="21.38969">
+		<name>I174</name>
+	</rtept>
+	<rtept lat="44.81545" lon="21.38008">
+		<name>I175</name>
+	</rtept>
+	<rtept lat="44.82373" lon="21.33202">
+		<name>I176</name>
+	</rtept>
+	<rtept lat="44.77355" lon="21.18713">
+		<name>I177</name>
+	</rtept>
+	<rtept lat="44.74137" lon="21.15692">
+		<name>I178</name>
+	</rtept>
+	<rtept lat="44.72966" lon="21.10817">
+		<name>I179</name>
+	</rtept>
+	<rtept lat="44.71649" lon="21.06216">
+		<name>I180</name>
+	</rtept>
+	<rtept lat="44.72137" lon="20.99968">
+		<name>I181</name>
+	</rtept>
+	<rtept lat="44.66816" lon="20.90767">
+		<name>I182</name>
+	</rtept>
+	<rtept lat="44.65595" lon="20.82596">
+		<name>I183</name>
+	</rtept>
+	<rtept lat="44.66572" lon="20.75592">
+		<name>I184</name>
+	</rtept>
+	<rtept lat="44.68525" lon="20.71747">
+		<name>I185</name>
+	</rtept>
+	<rtept lat="44.73747" lon="20.67558">
+		<name>I186</name>
+	</rtept>
+	<rtept lat="44.75161" lon="20.63507">
+		<name>I187</name>
+	</rtept>
+	<rtept lat="44.78330" lon="20.62271">
+		<name>I188</name>
+	</rtept>
+	<rtept lat="44.81789" lon="20.64400">
+		<name>I189</name>
+	</rtept>
+	<rtept lat="44.84711" lon="20.62820">
+		<name>I190</name>
+	</rtept>
+	<rtept lat="44.85003" lon="20.58220">
+		<name>I191</name>
+	</rtept>
+	<rtept lat="44.83250" lon="20.53413">
+		<name>I192</name>
+	</rtept>
+	<rtept lat="44.82617" lon="20.49911">
+		<name>I193</name>
+	</rtept>
+	<rtept lat="44.83493" lon="20.45105">
+		<name>I194</name>
+	</rtept>
+	<rtept lat="44.87631" lon="20.36453">
+		<name>I195</name>
+	</rtept>
+	<rtept lat="44.91425" lon="20.33775">
+		<name>I196</name>
+	</rtept>
+	<rtept lat="44.94293" lon="20.29655">
+		<name>I197</name>
+	</rtept>
+	<rtept lat="44.97451" lon="20.28625">
+		<name>I198</name>
+	</rtept>
+	<rtept lat="44.99443" lon="20.30685">
+		<name>I199</name>
+	</rtept>
+	<rtept lat="45.00462" lon="20.34393">
+		<name>I200</name>
+	</rtept>
+	<rtept lat="45.02938" lon="20.36728">
+		<name>I201</name>
+	</rtept>
+	<rtept lat="45.07207" lon="20.34050">
+		<name>I202</name>
+	</rtept>
+	<rtept lat="45.08904" lon="20.31166">
+		<name>I203</name>
+	</rtept>
+	<rtept lat="45.13652" lon="20.27321">
+		<name>I204</name>
+	</rtept>
+	<rtept lat="45.16267" lon="20.23407">
+		<name>I205</name>
+	</rtept>
+	<rtept lat="45.18397" lon="20.17708">
+		<name>I206</name>
+	</rtept>
+	<rtept lat="45.17042" lon="20.12009">
+		<name>I207</name>
+	</rtept>
+	<rtept lat="45.16848" lon="20.05486">
+		<name>I208</name>
+	</rtept>
+	<rtept lat="45.18494" lon="19.97040">
+		<name>I209</name>
+	</rtept>
+	<rtept lat="45.23041" lon="19.92439">
+		<name>I210</name>
+	</rtept>
+	<rtept lat="45.25411" lon="19.90860">
+		<name>I211</name>
+	</rtept>
+	<rtept lat="45.26377" lon="19.86740">
+		<name>I212</name>
+	</rtept>
+	<rtept lat="45.23380" lon="19.84680">
+		<name>I213</name>
+	</rtept>
+	<rtept lat="45.22026" lon="19.80286">
+		<name>I214</name>
+	</rtept>
+	<rtept lat="45.23235" lon="19.71291">
+		<name>I215</name>
+	</rtept>
+	<rtept lat="45.21978" lon="19.63120">
+		<name>I216</name>
+	</rtept>
+	<rtept lat="45.21107" lon="19.57764">
+		<name>I217</name>
+	</rtept>
+	<rtept lat="45.24395" lon="19.55429">
+		<name>I218</name>
+	</rtept>
+	<rtept lat="45.25120" lon="19.51584">
+		<name>I219</name>
+	</rtept>
+	<rtept lat="45.24057" lon="19.47739">
+		<name>I220</name>
+	</rtept>
+	<rtept lat="45.23283" lon="19.41833">
+		<name>I221</name>
+	</rtept>
+	<rtept lat="45.23670" lon="19.29268">
+		<name>I222</name>
+	</rtept>
+	<rtept lat="45.27344" lon="19.16908">
+		<name>I223</name>
+	</rtept>
+	<rtept lat="45.30049" lon="19.10110">
+		<name>I224</name>
+	</rtept>
+	<rtept lat="45.32560" lon="19.10042">
+		<name>I225</name>
+	</rtept>
+	<rtept lat="45.33863" lon="19.08188">
+		<name>I226</name>
+	</rtept>
+	<rtept lat="45.34635" lon="19.02832">
+		<name>I227</name>
+	</rtept>
+	<rtept lat="45.37386" lon="18.97476">
+		<name>I228</name>
+	</rtept>
+	<rtept lat="45.39266" lon="18.97545">
+		<name>I229</name>
+	</rtept>
+	<rtept lat="45.39845" lon="18.99193">
+		<name>I230</name>
+	</rtept>
+	<rtept lat="45.39990" lon="19.01321">
+		<name>I231</name>
+	</rtept>
+	<rtept lat="45.41291" lon="19.03107">
+		<name>I232</name>
+	</rtept>
+	<rtept lat="45.42448" lon="19.02695">
+		<name>I233</name>
+	</rtept>
+	<rtept lat="45.44713" lon="18.98918">
+		<name>I234</name>
+	</rtept>
+	<rtept lat="45.46254" lon="18.99124">
+		<name>I235</name>
+	</rtept>
+	<rtept lat="45.49528" lon="19.00017">
+		<name>I236</name>
+	</rtept>
+	<rtept lat="45.48661" lon="19.03587">
+		<name>I237</name>
+	</rtept>
+	<rtept lat="45.48806" lon="19.08463">
+		<name>I238</name>
+	</rtept>
+	<rtept lat="45.50442" lon="19.10042">
+		<name>I239</name>
+	</rtept>
+	<rtept lat="45.52559" lon="19.08600">
+		<name>I240</name>
+	</rtept>
+	<rtept lat="45.53425" lon="19.03519">
+		<name>I241</name>
+	</rtept>
+	<rtept lat="45.55397" lon="19.02420">
+		<name>I242</name>
+	</rtept>
+	<rtept lat="45.55926" lon="19.00909">
+		<name>I243</name>
+	</rtept>
+	<rtept lat="45.54147" lon="18.99536">
+		<name>I244</name>
+	</rtept>
+	<rtept lat="45.53233" lon="18.94867">
+		<name>I245</name>
+	</rtept>
+	<rtept lat="45.55253" lon="18.92120">
+		<name>I246</name>
+	</rtept>
+	<rtept lat="45.56599" lon="18.88687">
+		<name>I247</name>
+	</rtept>
+	<rtept lat="45.59819" lon="18.91365">
+		<name>I248</name>
+	</rtept>
+	<rtept lat="45.61884" lon="18.90266">
+		<name>I249</name>
+	</rtept>
+	<rtept lat="45.63661" lon="18.93631">
+		<name>I250</name>
+	</rtept>
+	<rtept lat="45.67068" lon="18.96652">
+		<name>I251</name>
+	</rtept>
+	<rtept lat="45.70042" lon="18.90747">
+		<name>I252</name>
+	</rtept>
+	<rtept lat="45.78093" lon="18.88550">
+		<name>I253</name>
+	</rtept>
+	<rtept lat="45.79099" lon="18.85254">
+		<name>I254</name>
+	</rtept>
+	<rtept lat="45.86037" lon="18.85735">
+		<name>I255</name>
+	</rtept>
+	<rtept lat="45.87184" lon="18.82919">
+		<name>I256</name>
+	</rtept>
+	<rtept lat="45.90673" lon="18.82370">
+		<name>I257</name>
+	</rtept>
+	<rtept lat="45.92775" lon="18.77769">
+		<name>I258</name>
+	</rtept>
+	<rtept lat="45.95879" lon="18.76190">
+		<name>I259</name>
+	</rtept>
+	<rtept lat="45.97454" lon="18.72826">
+		<name>I260</name>
+	</rtept>
+	<rtept lat="46.01318" lon="18.67950">
+		<name>I261</name>
+	</rtept>
+	<rtept lat="46.02987" lon="18.68980">
+		<name>I262</name>
+	</rtept>
+	<rtept lat="46.05131" lon="18.74405">
+		<name>I263</name>
+	</rtept>
+	<rtept lat="46.09514" lon="18.77563">
+		<name>I264</name>
+	</rtept>
+	<rtept lat="46.10799" lon="18.80516">
+		<name>I265</name>
+	</rtept>
+	<rtept lat="46.14178" lon="18.84087">
+		<name>I266</name>
+	</rtept>
+	<rtept lat="46.17270" lon="18.84361">
+		<name>I267</name>
+	</rtept>
+	<rtept lat="46.17127" lon="18.90198">
+		<name>I268</name>
+	</rtept>
+	<rtept lat="46.18363" lon="18.93013">
+		<name>I269</name>
+	</rtept>
+	<rtept lat="46.22165" lon="18.90953">
+		<name>I270</name>
+	</rtept>
+	<rtept lat="46.31042" lon="18.92189">
+		<name>I271</name>
+	</rtept>
+	<rtept lat="46.33934" lon="18.89648">
+		<name>I272</name>
+	</rtept>
+	<rtept lat="46.40709" lon="18.88344">
+		<name>I273</name>
+	</rtept>
+	<rtept lat="46.46388" lon="18.92807">
+		<name>I274</name>
+	</rtept>
+	<rtept lat="46.49603" lon="18.91228">
+		<name>I275</name>
+	</rtept>
+	<rtept lat="46.52108" lon="18.89236">
+		<name>I276</name>
+	</rtept>
+	<rtept lat="46.56405" lon="18.89717">
+		<name>I277</name>
+	</rtept>
+	<rtept lat="46.58907" lon="18.86627">
+		<name>I278</name>
+	</rtept>
+	<rtept lat="46.61879" lon="18.85597">
+		<name>I279</name>
+	</rtept>
+	<rtept lat="46.64048" lon="18.88550">
+		<name>I280</name>
+	</rtept>
+	<rtept lat="46.63671" lon="18.93082">
+		<name>I281</name>
+	</rtept>
+	<rtept lat="46.64708" lon="18.95760">
+		<name>I282</name>
+	</rtept>
+	<rtept lat="46.69420" lon="19.00909">
+		<name>I283</name>
+	</rtept>
+	<rtept lat="46.71350" lon="19.00703">
+		<name>I284</name>
+	</rtept>
+	<rtept lat="46.74268" lon="18.98163">
+		<name>I285</name>
+	</rtept>
+	<rtept lat="46.76197" lon="18.98575">
+		<name>I286</name>
+	</rtept>
+	<rtept lat="46.79724" lon="18.95210">
+		<name>I287</name>
+	</rtept>
+	<rtept lat="46.82027" lon="18.91983">
+		<name>I288</name>
+	</rtept>
+	<rtept lat="46.87287" lon="18.92464">
+		<name>I289</name>
+	</rtept>
+	<rtept lat="46.90571" lon="18.95897">
+		<name>I290</name>
+	</rtept>
+	<rtept lat="46.93948" lon="18.96515">
+		<name>I291</name>
+	</rtept>
+	<rtept lat="46.98962" lon="18.95142">
+		<name>I292</name>
+	</rtept>
+	<rtept lat="47.00929" lon="18.96721">
+		<name>I293</name>
+	</rtept>
+	<rtept lat="47.03597" lon="18.96790">
+		<name>I294</name>
+	</rtept>
+	<rtept lat="47.07340" lon="18.90129">
+		<name>I295</name>
+	</rtept>
+	<rtept lat="47.16124" lon="18.87794">
+		<name>I296</name>
+	</rtept>
+	<rtept lat="47.20464" lon="18.88550">
+		<name>I297</name>
+	</rtept>
+	<rtept lat="47.23216" lon="18.91090">
+		<name>I298</name>
+	</rtept>
+	<rtept lat="47.29041" lon="18.91777">
+		<name>I299</name>
+	</rtept>
+	<rtept lat="47.33417" lon="18.95004">
+		<name>I300</name>
+	</rtept>
+	<rtept lat="47.36952" lon="18.95485">
+		<name>I301</name>
+	</rtept>
+	<rtept lat="47.38952" lon="19.01733">
+		<name>I302</name>
+	</rtept>
+	<rtept lat="47.41183" lon="19.04549">
+		<name>I303</name>
+	</rtept>
+	<rtept lat="47.46709" lon="19.06677">
+		<name>I304</name>
+	</rtept>
+	<rtept lat="47.49494" lon="19.04549">
+		<name>I305</name>
+	</rtept>
+	<rtept lat="47.54641" lon="19.06128">
+		<name>I306</name>
+	</rtept>
+	<rtept lat="47.58949" lon="19.07089">
+		<name>I307</name>
+	</rtept>
+	<rtept lat="47.62005" lon="19.10728">
+		<name>I308</name>
+	</rtept>
+	<rtept lat="47.72039" lon="19.12720">
+		<name>I309</name>
+	</rtept>
+	<rtept lat="47.75410" lon="19.13338">
+		<name>I310</name>
+	</rtept>
+	<rtept lat="47.78871" lon="19.11415">
+		<name>I311</name>
+	</rtept>
+	<rtept lat="47.80993" lon="19.07295">
+		<name>I312</name>
+	</rtept>
+	<rtept lat="47.82192" lon="19.02626">
+		<name>I313</name>
+	</rtept>
+	<rtept lat="47.81454" lon="18.98575">
+		<name>I314</name>
+	</rtept>
+	<rtept lat="47.79425" lon="18.96790">
+		<name>I315</name>
+	</rtept>
+	<rtept lat="47.77348" lon="18.95691">
+		<name>I316</name>
+	</rtept>
+	<rtept lat="47.76333" lon="18.92464">
+		<name>I317</name>
+	</rtept>
+	<rtept lat="47.77394" lon="18.91022">
+		<name>I318</name>
+	</rtept>
+	<rtept lat="47.80116" lon="18.90678">
+		<name>I319</name>
+	</rtept>
+	<rtept lat="47.81592" lon="18.84567">
+		<name>I320</name>
+	</rtept>
+	<rtept lat="47.82376" lon="18.78456">
+		<name>I321</name>
+	</rtept>
+	<rtept lat="47.81223" lon="18.73375">
+		<name>I322</name>
+	</rtept>
+	<rtept lat="47.78963" lon="18.73100">
+		<name>I323</name>
+	</rtept>
+	<rtept lat="47.76656" lon="18.67401">
+		<name>I324</name>
+	</rtept>
+	<rtept lat="47.75641" lon="18.61702">
+		<name>I325</name>
+	</rtept>
+	<rtept lat="47.76887" lon="18.55316">
+		<name>I326</name>
+	</rtept>
+	<rtept lat="47.75179" lon="18.49342">
+		<name>I327</name>
+	</rtept>
+	<rtept lat="47.76564" lon="18.45428">
+		<name>I328</name>
+	</rtept>
+	<rtept lat="47.73055" lon="18.29430">
+		<name>I329</name>
+	</rtept>
+	<rtept lat="47.74302" lon="18.21602">
+		<name>I330</name>
+	</rtept>
+	<rtept lat="47.73979" lon="18.17894">
+		<name>I331</name>
+	</rtept>
+	<rtept lat="47.75733" lon="18.09174">
+		<name>I332</name>
+	</rtept>
+	<rtept lat="47.75687" lon="18.03268">
+		<name>I333</name>
+	</rtept>
+	<rtept lat="47.74717" lon="17.99904">
+		<name>I334</name>
+	</rtept>
+	<rtept lat="47.75687" lon="17.96951">
+		<name>I335</name>
+	</rtept>
+	<rtept lat="47.74394" lon="17.94548">
+		<name>I336</name>
+	</rtept>
+	<rtept lat="47.74163" lon="17.89055">
+		<name>I337</name>
+	</rtept>
+	<rtept lat="47.74533" lon="17.86102">
+		<name>I338</name>
+	</rtept>
+	<rtept lat="47.74117" lon="17.80678">
+		<name>I339</name>
+	</rtept>
+	<rtept lat="47.73979" lon="17.77176">
+		<name>I340</name>
+	</rtept>
+	<rtept lat="47.75825" lon="17.71408">
+		<name>I341</name>
+	</rtept>
+	<rtept lat="47.79978" lon="17.63168">
+		<name>I342</name>
+	</rtept>
+	<rtept lat="47.90438" lon="17.51289">
+		<name>I343</name>
+	</rtept>
+	<rtept lat="47.99544" lon="17.35977">
+		<name>I344</name>
+	</rtept>
+	<rtept lat="48.00325" lon="17.29248">
+		<name>I345</name>
+	</rtept>
+	<rtept lat="48.06340" lon="17.17232">
+		<name>I346</name>
+	</rtept>
+	<rtept lat="48.10468" lon="17.13730">
+		<name>I347</name>
+	</rtept>
+	<rtept lat="48.12393" lon="17.14622">
+		<name>I348</name>
+	</rtept>
+	<rtept lat="48.13585" lon="17.14005">
+		<name>I349</name>
+	</rtept>
+	<rtept lat="48.14410" lon="17.06657">
+		<name>I350</name>
+	</rtept>
+	<rtept lat="48.14089" lon="17.03911">
+		<name>I351</name>
+	</rtept>
+	<rtept lat="48.17295" lon="16.97182">
+		<name>I352</name>
+	</rtept>
+	<rtept lat="48.14960" lon="16.91071">
+		<name>I353</name>
+	</rtept>
+	<rtept lat="48.13173" lon="16.87637">
+		<name>I354</name>
+	</rtept>
+	<rtept lat="48.11660" lon="16.79741">
+		<name>I355</name>
+	</rtept>
+	<rtept lat="48.12806" lon="16.73286">
+		<name>I356</name>
+	</rtept>
+	<rtept lat="48.11798" lon="16.69579">
+		<name>I357</name>
+	</rtept>
+	<rtept lat="48.12898" lon="16.63742">
+		<name>I358</name>
+	</rtept>
+	<rtept lat="48.13402" lon="16.57837">
+		<name>I359</name>
+	</rtept>
+	<rtept lat="48.14227" lon="16.53648">
+		<name>I360</name>
+	</rtept>
+	<rtept lat="48.24434" lon="16.38336">
+		<name>I361</name>
+	</rtept>
+	<rtept lat="48.29690" lon="16.34628">
+		<name>I362</name>
+	</rtept>
+	<rtept lat="48.33389" lon="16.32774">
+		<name>I363</name>
+	</rtept>
+	<rtept lat="48.35077" lon="16.28586">
+		<name>I364</name>
+	</rtept>
+	<rtept lat="48.35579" lon="16.24809">
+		<name>I365</name>
+	</rtept>
+	<rtept lat="48.33936" lon="16.15746">
+		<name>I366</name>
+	</rtept>
+	<rtept lat="48.33617" lon="16.02219">
+		<name>I367</name>
+	</rtept>
+	<rtept lat="48.34210" lon="16.00090">
+		<name>I368</name>
+	</rtept>
+	<rtept lat="48.33845" lon="15.93498">
+		<name>I369</name>
+	</rtept>
+	<rtept lat="48.35807" lon="15.88623">
+		<name>I370</name>
+	</rtept>
+	<rtept lat="48.38043" lon="15.85258">
+		<name>I371</name>
+	</rtept>
+	<rtept lat="48.38134" lon="15.79285">
+		<name>I372</name>
+	</rtept>
+	<rtept lat="48.37358" lon="15.73860">
+		<name>I373</name>
+	</rtept>
+	<rtept lat="48.39000" lon="15.70221">
+		<name>I374</name>
+	</rtept>
+	<rtept lat="48.38088" lon="15.66582">
+		<name>I375</name>
+	</rtept>
+	<rtept lat="48.40140" lon="15.63835">
+		<name>I376</name>
+	</rtept>
+	<rtept lat="48.40094" lon="15.58342">
+		<name>I377</name>
+	</rtept>
+	<rtept lat="48.38544" lon="15.53673">
+		<name>I378</name>
+	</rtept>
+	<rtept lat="48.40915" lon="15.49553">
+		<name>I379</name>
+	</rtept>
+	<rtept lat="48.36309" lon="15.41519">
+		<name>I380</name>
+	</rtept>
+	<rtept lat="48.29279" lon="15.40421">
+		<name>I381</name>
+	</rtept>
+	<rtept lat="48.23245" lon="15.32799">
+		<name>I382</name>
+	</rtept>
+	<rtept lat="48.21278" lon="15.20370">
+		<name>I383</name>
+	</rtept>
+	<rtept lat="48.20454" lon="15.11787">
+		<name>I384</name>
+	</rtept>
+	<rtept lat="48.17066" lon="15.11444">
+		<name>I385</name>
+	</rtept>
+	<rtept lat="48.17204" lon="15.08835">
+		<name>I386</name>
+	</rtept>
+	<rtept lat="48.19813" lon="15.05951">
+		<name>I387</name>
+	</rtept>
+	<rtept lat="48.19310" lon="15.01419">
+		<name>I388</name>
+	</rtept>
+	<rtept lat="48.20408" lon="14.95926">
+		<name>I389</name>
+	</rtept>
+	<rtept lat="48.22833" lon="14.94278">
+		<name>I390</name>
+	</rtept>
+	<rtept lat="48.22604" lon="14.85832">
+		<name>I391</name>
+	</rtept>
+	<rtept lat="48.19127" lon="14.83360">
+		<name>I392</name>
+	</rtept>
+	<rtept lat="48.16746" lon="14.66881">
+		<name>I393</name>
+	</rtept>
+	<rtept lat="48.19539" lon="14.61388">
+		<name>I394</name>
+	</rtept>
+	<rtept lat="48.22376" lon="14.58366">
+		<name>I395</name>
+	</rtept>
+	<rtept lat="48.24480" lon="14.50470">
+		<name>I396</name>
+	</rtept>
+	<rtept lat="48.23748" lon="14.45526">
+		<name>I397</name>
+	</rtept>
+	<rtept lat="48.27131" lon="14.36737">
+		<name>I398</name>
+	</rtept>
+	<rtept lat="48.32339" lon="14.31450">
+		<name>I399</name>
+	</rtept>
+	<rtept lat="48.31106" lon="14.28429">
+		<name>I400</name>
+	</rtept>
+	<rtept lat="48.33297" lon="14.18198">
+		<name>I401</name>
+	</rtept>
+	<rtept lat="48.31106" lon="14.10919">
+		<name>I402</name>
+	</rtept>
+	<rtept lat="48.33754" lon="14.02061">
+		<name>I403</name>
+	</rtept>
+	<rtept lat="48.37176" lon="14.03229">
+		<name>I404</name>
+	</rtept>
+	<rtept lat="48.42009" lon="13.98079">
+		<name>I405</name>
+	</rtept>
+	<rtept lat="48.40505" lon="13.94234">
+		<name>I406</name>
+	</rtept>
+	<rtept lat="48.45198" lon="13.91350">
+		<name>I407</name>
+	</rtept>
+	<rtept lat="48.45152" lon="13.86818">
+		<name>I408</name>
+	</rtept>
+	<rtept lat="48.42556" lon="13.86543">
+		<name>I409</name>
+	</rtept>
+	<rtept lat="48.46882" lon="13.77960">
+		<name>I410</name>
+	</rtept>
+	<rtept lat="48.51297" lon="13.72604">
+		<name>I411</name>
+	</rtept>
+	<rtept lat="48.53843" lon="13.65395">
+		<name>I412</name>
+	</rtept>
+	<rtept lat="48.55616" lon="13.62991">
+		<name>I413</name>
+	</rtept>
+	<rtept lat="48.56934" lon="13.59283">
+		<name>I414</name>
+	</rtept>
+	<rtept lat="48.58933" lon="13.50769">
+		<name>I415</name>
+	</rtept>
+	<rtept lat="48.57615" lon="13.48640">
+		<name>I416</name>
+	</rtept>
+	<rtept lat="48.57842" lon="13.40675">
+		<name>I417</name>
+	</rtept>
+	<rtept lat="48.59795" lon="13.37379">
+		<name>I418</name>
+	</rtept>
+	<rtept lat="48.61248" lon="13.27972">
+		<name>I419</name>
+	</rtept>
+	<rtept lat="48.60794" lon="13.26187">
+		<name>I420</name>
+	</rtept>
+	<rtept lat="48.63200" lon="13.19801">
+		<name>I421</name>
+	</rtept>
+	<rtept lat="48.66013" lon="13.15269">
+		<name>I422</name>
+	</rtept>
+	<rtept lat="48.66285" lon="13.11974">
+		<name>I423</name>
+	</rtept>
+	<rtept lat="48.68733" lon="13.10738">
+		<name>I424</name>
+	</rtept>
+	<rtept lat="48.69187" lon="13.08609">
+		<name>I425</name>
+	</rtept>
+	<rtept lat="48.70818" lon="13.09776">
+		<name>I426</name>
+	</rtept>
+	<rtept lat="48.72676" lon="13.05176">
+		<name>I427</name>
+	</rtept>
+	<rtept lat="48.72223" lon="13.01605">
+		<name>I428</name>
+	</rtept>
+	<rtept lat="48.78515" lon="13.01468">
+		<name>I429</name>
+	</rtept>
+	<rtept lat="48.82721" lon="12.95975">
+		<name>I430</name>
+	</rtept>
+	<rtept lat="48.84348" lon="12.91237">
+		<name>I431</name>
+	</rtept>
+	<rtept lat="48.84619" lon="12.85675">
+		<name>I432</name>
+	</rtept>
+	<rtept lat="48.82721" lon="12.82722">
+		<name>I433</name>
+	</rtept>
+	<rtept lat="48.84077" lon="12.76474">
+		<name>I434</name>
+	</rtept>
+	<rtept lat="48.88233" lon="12.74963">
+		<name>I435</name>
+	</rtept>
+	<rtept lat="48.90625" lon="12.66724">
+		<name>I436</name>
+	</rtept>
+	<rtept lat="48.89903" lon="12.57179">
+		<name>I437</name>
+	</rtept>
+	<rtept lat="48.90806" lon="12.51686">
+		<name>I438</name>
+	</rtept>
+	<rtept lat="48.94596" lon="12.51823">
+		<name>I439</name>
+	</rtept>
+	<rtept lat="48.98202" lon="12.40219">
+		<name>I440</name>
+	</rtept>
+	<rtept lat="48.97932" lon="12.33147">
+		<name>I441</name>
+	</rtept>
+	<rtept lat="48.99869" lon="12.34314">
+		<name>I442</name>
+	</rtept>
+	<rtept lat="49.01491" lon="12.30949">
+		<name>I443</name>
+	</rtept>
+	<rtept lat="49.00950" lon="12.26212">
+		<name>I444</name>
+	</rtept>
+	<rtept lat="49.02526" lon="12.21542">
+		<name>I445</name>
+	</rtept>
+	<rtept lat="49.01130" lon="12.18590">
+		<name>I446</name>
+	</rtept>
+	<rtept lat="49.02706" lon="12.08702">
+		<name>I447</name>
+	</rtept>
+	<rtept lat="49.01851" lon="12.02797">
+		<name>I448</name>
+	</rtept>
+	<rtept lat="48.98022" lon="12.04239">
+		<name>I449</name>
+	</rtept>
+	<rtept lat="48.95497" lon="11.98883">
+		<name>I450</name>
+	</rtept>
+	<rtept lat="48.93964" lon="12.03552">
+		<name>I451</name>
+	</rtept>
+	<rtept lat="48.92205" lon="11.97098">
+		<name>I452</name>
+	</rtept>
+	<rtept lat="48.90309" lon="11.96411">
+		<name>I453</name>
+	</rtept>
+	<rtept lat="48.91257" lon="11.86249">
+		<name>I454</name>
+	</rtept>
+	<rtept lat="48.88639" lon="11.82129">
+		<name>I455</name>
+	</rtept>
+	<rtept lat="48.82585" lon="11.75606">
+		<name>I456</name>
+	</rtept>
+	<rtept lat="48.77927" lon="11.64139">
+		<name>I457</name>
+	</rtept>
+	<rtept lat="48.77837" lon="11.60225">
+		<name>I458</name>
+	</rtept>
+	<rtept lat="48.75981" lon="11.51985">
+		<name>I459</name>
+	</rtept>
+	<rtept lat="48.76253" lon="11.43951">
+		<name>I460</name>
+	</rtept>
+	<rtept lat="48.74034" lon="11.36604">
+		<name>I461</name>
+	</rtept>
+	<rtept lat="48.75302" lon="11.25343">
+		<name>I462</name>
+	</rtept>
+	<rtept lat="48.73174" lon="11.10237">
+		<name>I463</name>
+	</rtept>
+	<rtept lat="48.73536" lon="10.93140">
+		<name>I464</name>
+	</rtept>
+	<rtept lat="48.71045" lon="10.78926">
+		<name>I465</name>
+	</rtept>
+	<rtept lat="48.67509" lon="10.69656">
+		<name>I466</name>
+	</rtept>
+	<rtept lat="48.65469" lon="10.70343">
+		<name>I467</name>
+	</rtept>
+	<rtept lat="48.59296" lon="10.54619">
+		<name>I468</name>
+	</rtept>
+	<rtept lat="48.56888" lon="10.49263">
+		<name>I469</name>
+	</rtept>
+	<rtept lat="48.55889" lon="10.40474">
+		<name>I470</name>
+	</rtept>
+	<rtept lat="48.49204" lon="10.38208">
+		<name>I471</name>
+	</rtept>
+	<rtept lat="48.46063" lon="10.27496">
+		<name>I472</name>
+	</rtept>
+	<rtept lat="48.44196" lon="10.18021">
+		<name>I473</name>
+	</rtept>
+	<rtept lat="48.44423" lon="10.15068">
+		<name>I474</name>
+	</rtept>
+	<rtept lat="48.43239" lon="10.04082">
+		<name>I475</name>
+	</rtept>
+	<rtept lat="48.39547" lon="9.99550">
+		<name>I476</name>
+	</rtept>
+
+</rte>
+</gpx>

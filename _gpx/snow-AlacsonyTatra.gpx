@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>snow-AlacsonyTatra</name>
+
+	<rtept lat="48.94325" lon="19.12308">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="48.97030" lon="19.55154">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="48.90174" lon="20.16541">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="48.87555" lon="20.16403">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="48.92611" lon="19.56253">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="48.90174" lon="19.07227">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="48.94235" lon="19.12308">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="48.94145" lon="19.12170">
+		<name>I8</name>
+	</rtept>
+
+</rte>
+</gpx>

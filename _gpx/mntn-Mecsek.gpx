@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>mntn-Mecsek</name>
+
+	<rtept lat="46.15510" lon="17.85553">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="46.27673" lon="18.30322">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="46.16081" lon="18.62457">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="46.07895" lon="18.35541">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="46.05036" lon="18.10547">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="46.15130" lon="17.83630">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="46.15320" lon="17.84454">
+		<name>I7</name>
+	</rtept>
+
+</rte>
+</gpx>

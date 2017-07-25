@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>mntn-Pilis</name>
+
+	<rtept lat="47.76887" lon="19.01459">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="47.74302" lon="18.77563">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="47.59876" lon="18.85803">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="47.64319" lon="19.04480">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="47.76518" lon="19.01459">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="47.75964" lon="19.02008">
+		<name>I6</name>
+	</rtept>
+
+</rte>
+</gpx>

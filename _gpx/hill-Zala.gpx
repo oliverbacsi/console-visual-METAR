@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>hill-Zala</name>
+
+	<rtept lat="46.90337" lon="17.06726">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="46.49083" lon="16.93268">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="46.46435" lon="16.49048">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="46.79630" lon="16.07300">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="46.98775" lon="16.40533">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="46.91650" lon="17.07275">
+		<name>I6</name>
+	</rtept>
+
+</rte>
+</gpx>

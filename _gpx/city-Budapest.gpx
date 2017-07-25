@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>city-Budapest</name>
+
+	<rtept lat="47.63486" lon="19.05510">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="47.61450" lon="19.15329">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="47.55243" lon="19.15054">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="47.53575" lon="19.24461">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="47.47081" lon="19.30779">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="47.40486" lon="19.30435">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="47.36952" lon="19.21646">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="47.41229" lon="19.13750">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="47.37324" lon="19.12170">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="47.40160" lon="19.01253">
+		<name>I10</name>
+	</rtept>
+	<rtept lat="47.36534" lon="18.90060">
+		<name>I11</name>
+	</rtept>
+	<rtept lat="47.42205" lon="18.85597">
+		<name>I12</name>
+	</rtept>
+	<rtept lat="47.47730" lon="18.95485">
+		<name>I13</name>
+	</rtept>
+	<rtept lat="47.52926" lon="18.94249">
+		<name>I14</name>
+	</rtept>
+	<rtept lat="47.54316" lon="19.00772">
+		<name>I15</name>
+	</rtept>
+	<rtept lat="47.63208" lon="19.01115">
+		<name>I16</name>
+	</rtept>
+	<rtept lat="47.63347" lon="19.05029">
+		<name>I17</name>
+	</rtept>
+
+</rte>
+</gpx>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>mntn-Matra</name>
+
+	<rtept lat="47.85095" lon="20.20660">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="47.82606" lon="19.95392">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="47.84542" lon="19.70535">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="47.94027" lon="19.71771">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="47.98349" lon="19.79187">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="47.99544" lon="20.00198">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="47.92094" lon="20.17639">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="47.84911" lon="20.20798">
+		<name>I8</name>
+	</rtept>
+
+</rte>
+</gpx>

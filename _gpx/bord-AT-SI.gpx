@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>AT-SI</name>
+
+	<rtept lat="46.86958" lon="16.11420">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="46.86301" lon="16.09291">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="46.84188" lon="16.05858">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="46.83389" lon="16.03455">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="46.84094" lon="16.02425">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="46.83295" lon="15.99609">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="46.82685" lon="15.98476">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="46.80899" lon="15.99747">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="46.80288" lon="15.99232">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="46.75139" lon="15.98614">
+		<name>I10</name>
+	</rtept>
+	<rtept lat="46.71915" lon="16.00262">
+		<name>I11</name>
+	</rtept>
+	<rtept lat="46.70997" lon="16.02493">
+		<name>I12</name>
+	</rtept>
+	<rtept lat="46.68478" lon="16.04279">
+		<name>I13</name>
+	</rtept>
+	<rtept lat="46.65627" lon="16.03798">
+		<name>I14</name>
+	</rtept>
+	<rtept lat="46.67206" lon="16.00262">
+		<name>I15</name>
+	</rtept>
+	<rtept lat="46.68501" lon="15.98888">
+		<name>I16</name>
+	</rtept>
+	<rtept lat="46.68807" lon="15.94872">
+		<name>I17</name>
+	</rtept>
+	<rtept lat="46.70856" lon="15.91370">
+		<name>I18</name>
+	</rtept>
+	<rtept lat="46.72127" lon="15.87147">
+		<name>I19</name>
+	</rtept>
+	<rtept lat="46.72198" lon="15.82684">
+		<name>I20</name>
+	</rtept>
+	<rtept lat="46.70785" lon="15.78186">
+		<name>I21</name>
+	</rtept>
+	<rtept lat="46.69820" lon="15.74993">
+		<name>I22</name>
+	</rtept>
+	<rtept lat="46.69561" lon="15.71766">
+		<name>I23</name>
+	</rtept>
+	<rtept lat="46.70526" lon="15.68092">
+		<name>I24</name>
+	</rtept>
+	<rtept lat="46.70550" lon="15.64762">
+		<name>I25</name>
+	</rtept>
+	<rtept lat="46.69161" lon="15.65105">
+		<name>I26</name>
+	</rtept>
+	<rtept lat="46.68266" lon="15.63320">
+		<name>I27</name>
+	</rtept>
+	<rtept lat="46.68619" lon="15.60574">
+		<name>I28</name>
+	</rtept>
+	<rtept lat="46.67182" lon="15.55012">
+		<name>I29</name>
+	</rtept>
+	<rtept lat="46.64001" lon="15.54806">
+		<name>I30</name>
+	</rtept>
+	<rtept lat="46.61572" lon="15.49931">
+		<name>I31</name>
+	</rtept>
+	<rtept lat="46.61549" lon="15.46532">
+		<name>I32</name>
+	</rtept>
+	<rtept lat="46.65368" lon="15.41862">
+		<name>I33</name>
+	</rtept>
+	<rtept lat="46.65274" lon="15.30876">
+		<name>I34</name>
+	</rtept>
+	<rtept lat="46.64095" lon="15.23117">
+		<name>I35</name>
+	</rtept>
+	<rtept lat="46.65179" lon="15.18105">
+		<name>I36</name>
+	</rtept>
+	<rtept lat="46.65886" lon="15.10071">
+		<name>I37</name>
+	</rtept>
+	<rtept lat="46.65038" lon="15.06432">
+		<name>I38</name>
+	</rtept>
+	<rtept lat="46.62020" lon="14.99428">
+		<name>I39</name>
+	</rtept>
+	<rtept lat="46.63246" lon="14.95583">
+		<name>I40</name>
+	</rtept>
+	<rtept lat="46.60653" lon="14.91737">
+		<name>I41</name>
+	</rtept>
+	<rtept lat="46.60983" lon="14.88098">
+		<name>I42</name>
+	</rtept>
+	<rtept lat="46.56736" lon="14.83498">
+		<name>I43</name>
+	</rtept>
+	<rtept lat="46.51163" lon="14.81781">
+		<name>I44</name>
+	</rtept>
+	<rtept lat="46.50359" lon="14.77730">
+		<name>I45</name>
+	</rtept>
+	<rtept lat="46.50076" lon="14.71825">
+		<name>I46</name>
+	</rtept>
+	<rtept lat="46.46340" lon="14.69078">
+		<name>I47</name>
+	</rtept>
+	<rtept lat="46.44969" lon="14.66812">
+		<name>I48</name>
+	</rtept>
+	<rtept lat="46.43596" lon="14.59534">
+		<name>I49</name>
+	</rtept>
+	<rtept lat="46.38152" lon="14.58023">
+		<name>I50</name>
+	</rtept>
+	<rtept lat="46.37299" lon="14.55963">
+		<name>I51</name>
+	</rtept>
+	<rtept lat="46.42555" lon="14.51981">
+		<name>I52</name>
+	</rtept>
+	<rtept lat="46.41561" lon="14.48067">
+		<name>I53</name>
+	</rtept>
+	<rtept lat="46.43360" lon="14.43054">
+		<name>I54</name>
+	</rtept>
+	<rtept lat="46.44448" lon="14.43260">
+		<name>I55</name>
+	</rtept>
+	<rtept lat="46.43123" lon="14.30763">
+		<name>I56</name>
+	</rtept>
+	<rtept lat="46.44212" lon="14.27261">
+		<name>I57</name>
+	</rtept>
+	<rtept lat="46.43407" lon="14.23759">
+		<name>I58</name>
+	</rtept>
+	<rtept lat="46.44212" lon="14.21906">
+		<name>I59</name>
+	</rtept>
+	<rtept lat="46.43691" lon="14.15588">
+		<name>I60</name>
+	</rtept>
+	<rtept lat="46.47712" lon="14.12018">
+		<name>I61</name>
+	</rtept>
+	<rtept lat="46.49367" lon="14.04396">
+		<name>I62</name>
+	</rtept>
+	<rtept lat="46.48232" lon="14.01581">
+		<name>I63</name>
+	</rtept>
+	<rtept lat="46.51871" lon="13.92242">
+		<name>I64</name>
+	</rtept>
+	<rtept lat="46.50737" lon="13.81737">
+		<name>I65</name>
+	</rtept>
+	<rtept lat="46.51399" lon="13.77892">
+		<name>I66</name>
+	</rtept>
+	<rtept lat="46.52108" lon="13.71368">
+		<name>I67</name>
+	</rtept>
+
+</rte>
+</gpx>

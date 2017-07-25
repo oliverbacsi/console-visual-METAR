@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>hill-Villany</name>
+
+	<rtept lat="45.95497" lon="17.91595">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="46.05989" lon="18.61359">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="45.92823" lon="18.63007">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="45.81349" lon="18.16040">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="45.95688" lon="17.91046">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="45.95688" lon="17.90771">
+		<name>I6</name>
+	</rtept>
+
+</rte>
+</gpx>

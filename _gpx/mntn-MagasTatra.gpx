@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>mntn-MagasTatra</name>
+
+	<rtept lat="49.20863" lon="20.37415">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="49.12062" lon="20.23682">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="49.11253" lon="19.95667">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="49.17273" lon="19.57626">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="49.24540" lon="19.56940">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="49.29826" lon="19.75479">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="49.30811" lon="20.12421">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="49.25705" lon="20.34393">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="49.20773" lon="20.37689">
+		<name>I9</name>
+	</rtept>
+
+</rte>
+</gpx>

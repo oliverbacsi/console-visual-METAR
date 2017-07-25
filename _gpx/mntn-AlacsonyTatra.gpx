@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>mntn-AlacsonyTatra</name>
+
+	<rtept lat="48.87917" lon="18.89786">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="49.10894" lon="19.10660">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="49.04867" lon="19.33731">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="49.02616" lon="19.54605">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="49.05497" lon="19.96353">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="48.97030" lon="20.35492">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="48.83670" lon="20.18600">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="48.87465" lon="19.97726">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="48.82495" lon="19.68338">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="48.86923" lon="19.55292">
+		<name>I10</name>
+	</rtept>
+	<rtept lat="48.77158" lon="19.19037">
+		<name>I11</name>
+	</rtept>
+	<rtept lat="48.77248" lon="19.05853">
+		<name>I12</name>
+	</rtept>
+	<rtept lat="48.87917" lon="18.89786">
+		<name>I13</name>
+	</rtept>
+	<rtept lat="48.87826" lon="18.89923">
+		<name>I14</name>
+	</rtept>
+
+</rte>
+</gpx>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>hill-Morava</name>
+
+	<rtept lat="48.17341" lon="17.01508">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="48.32704" lon="16.99585">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="48.69459" lon="17.47650">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="48.64198" lon="17.70172">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="48.50387" lon="17.46277">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="48.13310" lon="17.07001">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="48.16609" lon="17.01508">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="48.16425" lon="17.01782">
+		<name>I8</name>
+	</rtept>
+
+</rte>
+</gpx>

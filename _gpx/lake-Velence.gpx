@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>lake-Velence</name>
+
+	<rtept lat="47.20674" lon="18.53771">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="47.20896" lon="18.55299">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="47.21735" lon="18.56277">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="47.21316" lon="18.58852">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="47.22225" lon="18.60020">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="47.23740" lon="18.63607">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="47.23426" lon="18.65942">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="47.22796" lon="18.66165">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="47.21607" lon="18.62938">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="47.21024" lon="18.62801">
+		<name>I10</name>
+	</rtept>
+	<rtept lat="47.17746" lon="18.54836">
+		<name>I11</name>
+	</rtept>
+	<rtept lat="47.18516" lon="18.54097">
+		<name>I12</name>
+	</rtept>
+	<rtept lat="47.20610" lon="18.53763">
+		<name>I13</name>
+	</rtept>
+
+</rte>
+</gpx>

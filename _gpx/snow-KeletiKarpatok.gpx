@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>snow-KeletiKarpatok</name>
+
+	<rtept lat="47.67279" lon="24.31274">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="47.45409" lon="25.07080">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="47.05141" lon="25.68604">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="46.60039" lon="26.00464">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="45.99315" lon="26.30676">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="45.83645" lon="26.31775">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="45.82880" lon="26.51550">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="46.19124" lon="26.46057">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="46.81886" lon="26.15295">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="47.32765" lon="25.70251">
+		<name>I10</name>
+	</rtept>
+	<rtept lat="47.70607" lon="25.01038">
+		<name>I11</name>
+	</rtept>
+	<rtept lat="47.68018" lon="24.30725">
+		<name>I12</name>
+	</rtept>
+
+</rte>
+</gpx>

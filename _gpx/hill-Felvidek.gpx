@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>hill-Felvidek</name>
+
+	<rtept lat="47.82975" lon="18.75366">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="48.07441" lon="18.85254">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="48.35260" lon="18.44604">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="48.35625" lon="17.98462">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="48.77429" lon="17.74292">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="49.34660" lon="17.61658">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="49.78126" lon="18.59436">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="49.84153" lon="20.22034">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="49.77062" lon="21.76392">
+		<name>I9</name>
+	</rtept>
+	<rtept lat="49.37522" lon="22.85706">
+		<name>I10</name>
+	</rtept>
+	<rtept lat="48.94415" lon="23.85132">
+		<name>I11</name>
+	</rtept>
+	<rtept lat="48.36720" lon="24.34021">
+		<name>I12</name>
+	</rtept>
+	<rtept lat="48.14776" lon="23.09326">
+		<name>I13</name>
+	</rtept>
+	<rtept lat="48.70909" lon="22.18689">
+		<name>I14</name>
+	</rtept>
+	<rtept lat="48.75619" lon="21.70349">
+		<name>I15</name>
+	</rtept>
+	<rtept lat="48.60386" lon="21.57166">
+		<name>I16</name>
+	</rtept>
+	<rtept lat="48.37450" lon="21.84631">
+		<name>I17</name>
+	</rtept>
+	<rtept lat="48.09643" lon="21.37390">
+		<name>I18</name>
+	</rtept>
+	<rtept lat="48.25394" lon="21.07727">
+		<name>I19</name>
+	</rtept>
+	<rtept lat="48.19539" lon="20.83557">
+		<name>I20</name>
+	</rtept>
+	<rtept lat="47.96050" lon="20.83557">
+		<name>I21</name>
+	</rtept>
+	<rtept lat="47.81315" lon="20.39612">
+		<name>I22</name>
+	</rtept>
+	<rtept lat="47.74671" lon="19.86877">
+		<name>I23</name>
+	</rtept>
+	<rtept lat="47.67279" lon="19.51172">
+		<name>I24</name>
+	</rtept>
+	<rtept lat="47.49308" lon="19.41010">
+		<name>I25</name>
+	</rtept>
+	<rtept lat="47.59320" lon="18.80585">
+		<name>I26</name>
+	</rtept>
+	<rtept lat="47.82791" lon="18.75366">
+		<name>I27</name>
+	</rtept>
+	<rtept lat="47.82238" lon="18.75641">
+		<name>I28</name>
+	</rtept>
+
+</rte>
+</gpx>

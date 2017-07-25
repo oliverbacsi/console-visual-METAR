@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<gpx version="1.1"
+  creator="route/track editor on http://www.wanderreitkarte.de"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+  http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+	<name>city-Zagrab</name>
+
+	<rtept lat="45.83645" lon="15.90511">
+		<name>I1</name>
+	</rtept>
+	<rtept lat="45.84530" lon="15.97549">
+		<name>I2</name>
+	</rtept>
+	<rtept lat="45.83980" lon="16.05446">
+		<name>I3</name>
+	</rtept>
+	<rtept lat="45.79769" lon="16.06270">
+		<name>I4</name>
+	</rtept>
+	<rtept lat="45.78093" lon="16.05000">
+		<name>I5</name>
+	</rtept>
+	<rtept lat="45.75555" lon="15.99232">
+		<name>I6</name>
+	</rtept>
+	<rtept lat="45.77327" lon="15.94700">
+		<name>I7</name>
+	</rtept>
+	<rtept lat="45.79075" lon="15.90099">
+		<name>I8</name>
+	</rtept>
+	<rtept lat="45.83574" lon="15.90752">
+		<name>I9</name>
+	</rtept>
+
+</rte>
+</gpx>
