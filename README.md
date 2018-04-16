@@ -8,7 +8,7 @@ METAR sentence parser originally taken from the package tclmetar-0.1 from the Tc
  Link to original: http://wiki.tcl.tk/19635
 
 
-##Preconditions to run this software:
+## Preconditions to run this software:
 
 0. TCL support
    This software has been written in TCL, so You'll need Tclsh installed
@@ -26,31 +26,45 @@ METAR sentence parser originally taken from the package tclmetar-0.1 from the Tc
    Put in "export COLUMNS" and "export LINES" in Your Shell's RC file  (like: .bashrc)
 
 
-##Usage:
+## Usage:
 
 * Put in Your Home location in the first data row of the Stations.txt file (right below the header)
-  Put in "HOME;<Your city name>;<Latitute>;<Longitude>;<Sea level>;0km;0"
+  Put in "HOME;_Your city name_;_Latitute_;_Longitude_;_Sea level_;0km;0"
 
 * Underneath this in the following rows put in the list of stations You want to monitor.
   At the moment there are a bunch of central European stations.
 
 * Start the software
 
-* <this will be deleted if help window will be available inside the program>
+* _this will be deleted if help window will be available inside the program_
+
   Use following commands inside the program:
-  GO   <north/south/east/west/up/down/left/right>  -- navigate on the map
-  GOTO   <stations's ICAO code>   -- center the station on the map and view METAR data (raw and decoded)
-  ZOOM   <in/out>   -- change map's zoom level
-  RETRIEVE   <mask>   -- download data from noaa web site into file for all stations matching <mask>
+
+  GO   _north/south/east/west/up/down/left/right_  -- navigate on the map
+
+  GOTO   _stations's ICAO code_   -- center the station on the map and view METAR data (raw and decoded)
+
+  ZOOM   _in/out_   -- change map's zoom level
+
+  RETRIEVE   _mask_   -- download data from noaa web site into file for all stations matching _mask_
+
   RELOAD   -- Reload METAR data from the data files into memory
+
   REFRESH   -- Redraw the whole screen
+
   EXIT , QUIT   -- Exit the program
+
   LABEL   -- Change what short information is displayed for each station's label
-    ICAO   -- the ICAO code of the station (default)
-    TEMP   -- Temperature at the station
-    WIND   -- Wind speed at the station
-    PRES   -- Air pressure at the station
-    WTHR   -- Short weather code at the station
+
+    LABEL ICAO   -- the ICAO code of the station (default)
+
+    LABEL TEMP   -- Temperature at the station
+
+    LABEL WIND   -- Wind speed at the station
+
+    LABEL PRES   -- Air pressure at the station
+
+    LABEL WTHR   -- Short weather code at the station
 
 * Possibility to expand map:
   Take Google Maps or WanderReitKarte , and draw a line along a border or river and save it as gpx file.
@@ -59,7 +73,7 @@ METAR sentence parser originally taken from the package tclmetar-0.1 from the Tc
   * Weak point for drawing areas: see BUGS section below!
 
 
-##BUGS and Still to do:
+## BUGS and Still to do:
 
 * All Station distances and directions are calculated from Szombathely (fixed)
   Need to change to auto-calculate from the HOME location.
