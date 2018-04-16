@@ -465,6 +465,32 @@ while {$Stay_in} {
       puts "\033\[2J"
       set Stay_in 0
     }
+    "HELP" - "?" {
+      redrawscreen
+      puts -nonewline "\033\[4;26H\033\[1;34;44m*************************************************************************************"
+      puts -nonewline "\033\[5;26H\033\[1;34;44m*                                                                                   *"
+      puts -nonewline "\033\[6;26H\033\[1;34;44m*    \033\[1;37;44mCOMMANDS:                                                                      \033\[1;34;44m*"
+      puts -nonewline "\033\[7;26H\033\[1;34;44m*                                                                                   *"
+      puts -nonewline "\033\[8;26H\033\[1;34;44m* \033\[1;33;44mGO   \033\[1;32;44m<direction>  \033\[1;36;44m- Navigate on the Map                                           \033\[1;34;44m*"
+      puts -nonewline "\033\[9;26H\033\[1;34;44m*   \033\[1;32;44m<direction> = north,south,east,west,up,down,left,right  /first letter enough/   \033\[1;34;44m*"
+      puts -nonewline "\033\[10;26H\033\[1;34;44m* \033\[1;33;44mGOTO \033\[1;32;44m<ICAO>       \033\[1;36;44m- Center selected station and display its details               \033\[1;34;44m*"
+      puts -nonewline "\033\[11;26H\033\[1;34;44m* \033\[1;33;44mZOOM \033\[1;32;44m<direction>  \033\[1;36;44m- Change zoom level of the Map                                  \033\[1;34;44m*"
+      puts -nonewline "\033\[12;26H\033\[1;34;44m*   \033\[1;32;44m<direction> = in,out                                                            \033\[1;34;44m*"
+      puts -nonewline "\033\[13;26H\033\[1;34;44m* \033\[1;33;44mRETRIEVE \033\[1;32;44m<mask>   \033\[1;36;44m- Retrieve METAR data from NOAA into files                      \033\[1;34;44m*"
+      puts -nonewline "\033\[14;26H\033\[1;34;44m*   \033\[1;32;44m<mask> = Wildcarded (?,*) mask of ICAO station codes to download  /* for all/   \033\[1;34;44m*"
+      puts -nonewline "\033\[15;26H\033\[1;34;44m* \033\[1;33;44mRELOAD            \033\[1;36;44m- Reload weather data from files into memory                    \033\[1;34;44m*"
+      puts -nonewline "\033\[16;26H\033\[1;34;44m* \033\[1;33;44mREFRESH           \033\[1;36;44m- Redraw all information on the screen                          \033\[1;34;44m*"
+      puts -nonewline "\033\[17;26H\033\[1;34;44m* \033\[1;33;44mQUIT | EXIT       \033\[1;36;44m- Exit the program                                              \033\[1;34;44m*"
+      puts -nonewline "\033\[18;26H\033\[1;34;44m*                                                                                   *"
+      puts -nonewline "\033\[19;26H\033\[1;34;44m*    \033\[1;37;44mLEGEND:                                                                        \033\[1;34;44m*"
+      puts -nonewline "\033\[20;26H\033\[1;34;44m*                                                                                   *"
+      puts -nonewline "\033\[21;26H\033\[1;34;44m* \033\[0;30;41m¤ICAO\033\[1;37;44m  - Problem with weather data      /check NOAA if available and updated/     \033\[1;34;44m*"
+      puts -nonewline "\033\[22;26H\033\[1;34;44m* \033\[0;30;47m¤ICAO\033\[1;37;44m  - Weather data available                  /although worth to retrieve/     \033\[1;34;44m*"
+      puts -nonewline "\033\[23;26H\033\[1;34;44m* \033\[0;30;42m¤ICAO\033\[1;37;44m  - Weather data available and quite recent           /less than 1 hour/     \033\[1;34;44m*"
+      puts -nonewline "\033\[24;26H\033\[1;34;44m*                                                                                   *"
+      puts -nonewline "\033\[25;26H\033\[1;34;44m*************************************************************************************\033\[0m\033\[[expr $env(LINES)-1];0H"
+      flush stdout
+    }
     default {
       redrawscreen
       puts "\033\[1;31m*** Command not understood!\033\[0m"
