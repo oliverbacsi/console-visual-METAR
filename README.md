@@ -1,8 +1,10 @@
 # console-visual-METAR
 Download, decode and visualize METAR weather on a colorful Map on Linux console.
 
+![Screenshot](https://github.com/oliverbacsi/console-visual-METAR/blob/master/Screenshot.png)
+
 METAR sentence parser originally taken from the package tclmetar-0.1 from the Tcl/Tk web site,<BR>
- although it has been changed from ftp to http and added ANSI support, and modified slightly.<BR>
+ although it has been changed from ftp to http and added ANSI support and modified slightly.<BR>
  Link to original: http://wiki.tcl.tk/19635
 
 
