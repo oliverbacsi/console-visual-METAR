@@ -85,7 +85,7 @@ proc ::tclmetar::parse_clouds { ct cloudstypenm ch cloudsheightnm cbtcu towering
     }
     set ch [string trimleft $ch "0"]
     if { [string length $ch] == 0 } { set ch "0" }
-    if { [string equal $cloudsheight "<unknown>"] } { set cloudsheight [expr {$ch * 30.48}] } else { lappend cloudsheight [expr {$ch * 30.48}] }
+    if { [string equal $cloudsheight "<unknown>"] } { set cloudsheight [expr {round($ch * 30.48)}] } else { lappend cloudsheight [expr {round($ch * 30.48)}] }
     switch -exact -- $cbtcu {
         CB {
             set toweringcumulus 0 ; set cumulonimbus 1
@@ -315,7 +315,7 @@ proc ::tclmetar::parse { metarl mi_abbrev } {
     if {[string match -nocase *unkn* $ar(corrected)]} {
       set _station "\033\[1m\<\033\[0m$mi_abbrev\033\[1m\>\033\[0m"
     } elseif {"$ar(corrected)" eq "1"} {
-      set _station "\033\[1m\(\033\[0m$mi_abbrev\033\[1m\)\033\[0m"
+      set _station "\033\[1m\~\033\[0m$mi_abbrev\033\[1m\~\033\[0m"
     } else {
       set _station "\033\[1m\[\033\[0m$mi_abbrev\033\[1m\]\033\[0m"
     }
